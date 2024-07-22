@@ -17,7 +17,7 @@ Se você quiser construir a imagem Docker localmente, siga estes passos:
 1. Clone este repositório:
 
    ```
-   git clone <URL_DO_SEU_REPOSITORIO>
+   git clone https://github.com/sergio-rocha1/desafios-fullcycle-docker.git
    cd desafios-fullcycle-docker/go
    ```
 
