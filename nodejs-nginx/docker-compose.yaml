@@ -10,7 +10,7 @@ services:
     volumes:
       - ./mysql:/var/lib/mysql
     environment:
-      - MYSQL_DATABASE=root
+      - MYSQL_DATABASE=nodedb
       - MYSQL_ROOT_PASSWORD=root
     networks:
       - network-node
